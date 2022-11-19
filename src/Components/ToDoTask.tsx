@@ -2,6 +2,7 @@
 // this component determines what will be returned in our todolist.
 import React from "react";
 import { ITask } from "../interfaces";
+import "./ToDoTask.css";
 
 interface props {
   task: ITask;
