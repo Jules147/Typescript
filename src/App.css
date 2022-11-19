@@ -36,7 +36,7 @@ body {
 
 /* for <input> tags in header area*/
 .header input {
-  width: 200px;
+  width: 15vw;
   height: 40px;
   border: none;
   /* rounded the left sides but keep right side straight so right 'falls' flat against button */
@@ -51,7 +51,7 @@ body {
 /* for button in header area*/
 
 .header button {
-  width: 70px;
+  width: 15vw;
   height: 88px;
   border: none;
   font-size: 15px;
@@ -69,7 +69,7 @@ body {
   /* will take 70% of the screen */
   flex: 70%;
   /* and fill 100% of its 70% */
-  width: 100%;
+  width: 30vw;
   /* ensures that the list will be centred on screen */
   display: flex;
   align-items: center;
