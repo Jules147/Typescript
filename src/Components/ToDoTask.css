@@ -8,7 +8,7 @@
 }
 
 .task .content {
-  /* our task will take up 80% of the div width, leaving 20% for the button */
+  width: 30vw;
   flex: 80%;
   height: 100%;
   display: flex;

@@ -32,6 +32,7 @@ body {
   /* ensure everything is middled */
   justify-content: center;
   align-items: center;
+  margin: 0;
 }
 
 /* for <input> tags in header area*/

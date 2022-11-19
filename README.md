@@ -1,4 +1,4 @@
-[https://earnest-crostata-3ed1b9.netlify.app] (https://earnest-crostata-3ed1b9.netlify.app)
+[https://magenta-semifreddo-745600.netlify.app/] (https://magenta-semifreddo-745600.netlify.app/)
 
 # Getting Started with Create React App
 
