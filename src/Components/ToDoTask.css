@@ -1,6 +1,6 @@
 .task {
   /* to ensure the item on our list and our button to remove that item are side by side */
-  width: 30vw;
+  width: 50vw;
   height: 50px;
   display: flex;
   color: rgb(0, 0, 0);

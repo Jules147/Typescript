@@ -37,7 +37,7 @@ body {
 
 /* for <input> tags in header area*/
 .header input {
-  width: 15vw;
+  width: 30vw;
   height: 40px;
   border: none;
   /* rounded the left sides but keep right side straight so right 'falls' flat against button */
