@@ -79,9 +79,15 @@ body {
 }
 
 @media (max-width: 767px) {
-  .deadlineDays {
-    visibility: visible;
-    display: block;
-    border-radius: 0;
+  .header input {
+    width: 30vw;
+    height: 44px;
+  }
+
+  .header button {
+    width: 15vw;
+    height: 88px;
+    border: none;
+    font-size: 15px;
   }
 }
