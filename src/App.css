@@ -83,7 +83,7 @@ body {
   height: 50px;
   display: flex;
   color: rgb(0, 0, 0);
-  margin: 15px;
+  /* margin: 15px; */
 }
 
 .task .content {
