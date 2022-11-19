@@ -79,7 +79,7 @@ body {
 
 .task {
   /* to ensure the item on our list and our button to remove that item are side by side */
-  width: 60vw;
+  width: 30vw;
   height: 50px;
   display: flex;
   color: rgb(0, 0, 0);
