@@ -77,3 +77,11 @@ body {
   padding-top: 50px;
   flex-direction: column;
 }
+
+@media (max-width: 767px) {
+  .deadlineDays {
+    visibility: visible;
+    display: block;
+    border-radius: 0;
+  }
+}

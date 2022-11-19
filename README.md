@@ -1,4 +1,4 @@
-[https://serene-mochi-0d7e92.netlify.app/] (https://serene-mochi-0d7e92.netlify.app/)
+[https://ornate-seahorse-f73e2a.netlify.app] (https://ornate-seahorse-f73e2a.netlify.app)
 
 # Getting Started with Create React App
 

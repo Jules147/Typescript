@@ -7,7 +7,7 @@ const App: FC = () => {
   // our first state will keep track of the user's todo entry
   const [task, setTask] = useState<string>("");
   // our second state will keep track of the user's deadline
-  const [deadline, setDeadline] = useState<number>(0);
+  const [deadline, setDeadline] = useState<number>(Number);
   // our third state will keep track of the todolist itself which is an object including the task itself and the deadline - we've defined our own interface here (which is an ITask array) '<ITask[]>' and imported the interface from our interfaces.ts file
   // note if useState below was simply an array of strings, we'd definie it as 'useState<string[]>([])'
   const [todoList, setToDoList] = useState<ITask[]>([]);
@@ -36,7 +36,7 @@ const App: FC = () => {
     console.log(todoList);
     // this resets our input fields so the user can add their next item
     setTask("");
-    setDeadline(0);
+    setDeadline(Number);
   };
 
   // this enables us to remove the task once it's been completed/we've clicked the button to complete it
@@ -65,6 +65,7 @@ const App: FC = () => {
               name="task"
             ></input>
             <input
+              className="deadlineDays"
               type="number"
               placeholder="Deadline in days"
               onChange={handleChange}
