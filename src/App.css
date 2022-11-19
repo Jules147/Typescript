@@ -78,7 +78,7 @@ body {
   flex-direction: column;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 450px) {
   .header input {
     width: 30vw;
     height: 44px;
