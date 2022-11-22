@@ -1,4 +1,4 @@
-[https://voluble-alpaca-026d72.netlify.app] (https://voluble-alpaca-026d72.netlify.app)
+[https://juliantypescriptexample.netlify.app] (https://juliantypescriptexample.netlify.app)
 
 # Getting Started with Create React App
 
